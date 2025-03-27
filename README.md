@@ -42,8 +42,13 @@ curl -X POST "http://localhost:8000/execute" -H "Content-Type: application/json"
 ### 4. Sample Outputs :
 Prompts :
 ```bash
-'{"prompt": "Open Calculator"}'
+'{"prompt": "Open Chrome"}'
 ```
 
 ![Screenshot 2025-03-27 094205](https://github.com/user-attachments/assets/2bec4bb9-029e-4266-9fd7-f835427afbb0)
+
+Backend Workflow:
+
+![Screenshot 2025-03-27 094217](https://github.com/user-attachments/assets/5c9c135d-db42-460c-a263-7d53042df650)
+
 
