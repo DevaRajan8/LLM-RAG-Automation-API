@@ -31,7 +31,7 @@ Start the server with:
 ```bash
 python api.py
 ```
-The server will be running at [http://0.0.0.0:8000](http://0.0.0.0:8000).
+The server will be running at [http://localhost:8000](http://localhost:8000).
 
 ### 3. Test the Endpoint
 Use `curl` or **Postman** to test the API:
