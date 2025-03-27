@@ -37,3 +37,13 @@ The server will be running at [http://localhost:8000](http://localhost:8000).
 Use `curl` or **Postman** to test the API:
 ```bash
 curl -X POST "http://localhost:8000/execute" -H "Content-Type: application/json" -d '{"prompt": "Open Calculator"}'
+```
+
+### 4. Sample Outputs :
+Prompts :
+```bash
+'{"prompt": "Open Calculator"}'
+```
+
+![Screenshot 2025-03-27 094205](https://github.com/user-attachments/assets/2bec4bb9-029e-4266-9fd7-f835427afbb0)
+
